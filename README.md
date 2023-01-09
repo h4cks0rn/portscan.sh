@@ -1,2 +1,4 @@
 # portscan.sh
-esacner  de  puertos  tcp o udp escrito en bash, permite  escanear todos  los  puertos -->  solo en sistemas  linux    
+
+script that allows to detect open ports quickly
+and less noisy than nmap on hosts with linux systems installed pulling /dev/tcp and /dev/udp
