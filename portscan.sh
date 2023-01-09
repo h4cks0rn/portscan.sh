@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author --> IRVING ST --> AK --> (th3hostname) nmap y pa dentro
+# Author --> IRVING ST --> AK --> (h4cks0rn) nmap y pa dentro
 
 #Colors
 greenColour="\e[0;32m\033[1m"
